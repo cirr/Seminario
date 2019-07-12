@@ -9,5 +9,7 @@ En este proyecto se trata de crear un vaporizador para invernadero el cual hará
 Autores
 ---------
 Cirey Zarate Blake
+---------
 Luis Domingues Aranza     recuperacion
+---------
 López Jaimes José Gustavo recuperacion
