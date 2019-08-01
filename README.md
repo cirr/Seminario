@@ -10,7 +10,7 @@ Autores
 ---------
 Cirey Zarate Blake
 ---------
-Luis Domingues Aranza     recuperacion
+Luis Domingues Aranza    
 ---------
-López Jaimes José Gustavo recuperacion
+López Jaimes José Gustavo
 --------
